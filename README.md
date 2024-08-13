@@ -23,7 +23,7 @@ pip install pynput
 - Ensure that Python and the pynput library are installed.
 - Run the main_key.py script:
 ```bash
-   python main_key.py
+python main_key.py
 ```
 - The script will start logging keystrokes. Press keys on your keyboard, and they will be recorded in the 'log.txt' file.
 
